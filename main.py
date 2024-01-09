@@ -38,8 +38,8 @@ balance = balance_only()
 
 ######################################################################################################################################
 #telegram bot
-chat_id = 1646361418
-TOKEN = '6853456138:AAED_vhJ8qyOzLlcrLKNtj0LuT3dPZOmig4'
+chat_id = xxxxxxxxxxx
+TOKEN = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 updater = Updater(token=TOKEN, use_context=True)
 dispatcher = updater.dispatcher
 
