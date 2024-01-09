@@ -58,8 +58,8 @@ start_info()
 
 ######################################################################################################################################
 
-api_key = 'an0io8bwZ8mbfiwUnioq4fVWzUvtq6kPhWTSLIMAG6sYhqC2jzctvukDlWYroETg'
-api_secret = 'lYi1i3E8Wn64ENncjTEtTiBMj3A9Y2tblqBCWsvu9rw1FPzhnwOVR3xGJkfQG1Ou'
+api_key = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+api_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 ######################################################################################################################################
 
